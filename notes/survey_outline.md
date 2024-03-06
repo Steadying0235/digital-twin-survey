@@ -15,6 +15,8 @@
 
 This paper will exmaine the current state-of-the-art digital twin technology across multiple industries with a heavy emphasis on information management in these twins, particularly in regards to data fusion
 
+interoperability of data across applications
+
 ## Source groups
 
 1. Digital twin requirements across industries
@@ -22,4 +24,27 @@ This paper will exmaine the current state-of-the-art digital twin technology acr
 
 ## Introduction
 
+History of digital twins
+Examples of digital twin applications - requirements change depending on relevant industry
+real-time data flow
+real sensor data from multiple sources needs to be collected and processed with model data
+Introduce scale of data management challenges
+Introduce goals of future sections
+
 ## Methodology
+
+Search terms for papers (digital + twin + information + management)
+What years are considered (2022 - 2024)
+
+## Related works -> split by industry
+
+scale of current digital thread implementations
+references are grouped based on industry and the challenges that they're addressing ??
+transactions published in IEEE Xplore are considerd
+
+digital twin in product design versus production systems
+
+## Future Directions
+
+expected challenges
+development of communication channels
